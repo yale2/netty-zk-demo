@@ -1,0 +1,5 @@
+com\yale\rpc\serializer\MySerializer.class
+com\yale\rpc\service\IUserService.class
+com\yale\rpc\serializer\RpcSerializer.class
+com\yale\rpc\request\RpcRequest.class
+com\yale\rpc\encoder\RpcEncoder.class

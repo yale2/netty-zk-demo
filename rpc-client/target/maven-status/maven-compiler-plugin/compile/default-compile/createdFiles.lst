@@ -1,0 +1,5 @@
+com\yale\rpc\boot\ConsumerBoot.class
+com\yale\rpc\client\RPCConsumer$2.class
+com\yale\rpc\client\RPCConsumer$1.class
+com\yale\rpc\client\RPCConsumer.class
+com\yale\rpc\handler\UserClientHandler.class
